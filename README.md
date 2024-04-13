@@ -1,2 +1,1 @@
-# Goldworker
-Dart framework &amp; web server for web development
+An absolute bare-bones web app.
