@@ -1,1 +1,2 @@
-An absolute bare-bones web app.
+# Goldworker
+Goldworker is a framework & library for web in Dart
