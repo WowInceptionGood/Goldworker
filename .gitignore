@@ -414,3 +414,5 @@ FodyWeavers.xsd
 # Ignore all local history of files
 .history
 .ionide
+
+scripts/dev/*
